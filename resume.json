@@ -1,0 +1,208 @@
+{
+  "basics": {
+    "name": "William Dean",
+    "label": "Analytics Engineer",
+    "phone": "(585) 465-1690",
+    "email": "williamdean19@gmail.com",
+    "location": {
+      "city": "Rochester",
+      "state": "NY",
+      "country": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "willdean1",
+        "url": "https://linkedin.com/in/willdean1"
+      },
+      {
+        "network": "GitHub",
+        "username": "williamdean19",
+        "url": "https://github.com/williamdean19"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Medical University of South Carolina",
+      "position": "Workday Custom Report and Prism Analytics Developer",
+      "location": "Rochester, NY - Remote",
+      "startDate": "2023-02",
+      "endDate": "2024-10",
+      "highlights": [
+        "Led the development of a multi-source data pipeline integrating Epic EMR, Kronos, Axiom, and Workday data.",
+        "Engineered data pipelines to unify systems, improving reporting accuracy.",
+        "Managed migration of 12 million rows of legacy data into Workday Prism Analytics.",
+        "Developed over 100 advanced reports across payroll, HCM, and recruiting.",
+        "Created detailed payroll reports at cost center and employee levels.",
+        "Generated quarterly job application and termination reports for Vizient reporting.",
+        "Built a dashboard tracking employee turnover trends and attrition rates.",
+        "Designed metrics for continuous service and terminations within specific timeframes."
+      ]
+    },
+    {
+      "company": "University of Rochester",
+      "position": "Sr. Workday Report Developer",
+      "location": "Rochester, NY - Remote",
+      "startDate": "2021-02",
+      "endDate": "2023-02",
+      "highlights": [
+        "Executed deployment of Workday HCM data reporting for Highland Hospital.",
+        "Partnered with Huron consultants to ensure data consistency during the transition.",
+        "Deployed W-2 and W-2C data extraction for Highland Hospital workers.",
+        "Customized BIRT paycheck layout for over 4000 workers using Workday Studio.",
+        "Designed BIRT supplier payment checks to bank specifications.",
+        "Developed a financial dashboard to monitor $64 million in grant funding."
+      ]
+    },
+    {
+      "company": "MVP Health Care",
+      "position": "SQL Reporting Analyst",
+      "location": "Rochester, NY - Remote",
+      "startDate": "2020-01",
+      "endDate": "2020-11",
+      "highlights": [
+        "Devised an on-demand solution for database migration using SQL and hash algorithms.",
+        "Upgraded and maintained SSIS ETL workflows.",
+        "Managed SQL queries for the Facets insurance claim submission application.",
+        "Encouraged process improvements leading to increased productivity."
+      ]
+    },
+    {
+      "company": "Coordinated Care Services Inc. (OMH/HHUNY)",
+      "position": "Data Analyst / SQL Developer",
+      "location": "Rochester, NY",
+      "startDate": "2016-05",
+      "endDate": "2020-01",
+      "highlights": [
+        "Prevented loss of $1.6 million in unused state aid through strategic data analysis.",
+        "Processed daily billing for the HHUNY network using SSIS workflows.",
+        "Engineered a data pipeline for $35 million in budget data.",
+        "Developed Tableau dashboards with daily refresh.",
+        "Built a GUI application using Microsoft Access and SQL Server for the 'Gap In Care' initiative."
+      ]
+    },
+    {
+      "company": "SUNY Research Foundation",
+      "position": "Research Analyst / Java Programmer",
+      "location": "Brockport, NY",
+      "startDate": "2016-01",
+      "endDate": "2016-05",
+      "highlights": [
+        "Analyzed 188,000 rows of travel data from 19,000 household surveys using a custom Java application."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SUNY Brockport",
+      "location": "Brockport, NY",
+      "studyType": "B.S.",
+      "area": "Computer Science (Software Engineering Track)",
+      "startDate": "2014",
+      "endDate": "2017",
+      "gpa": null,
+      "honors": [
+        "Brockport Math and Computer Science Scholarship for three consecutive semesters",
+        "President’s List (Fall 2014)",
+        "Dean’s List (Fall 2015, Spring 2016)"
+      ]
+    },
+    {
+      "institution": "SUNY Geneseo",
+      "location": "Geneseo, NY",
+      "studyType": "B.A.",
+      "area": "Mathematics",
+      "startDate": null,
+      "endDate": "2010",
+      "gpa": null,
+      "honors": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "C#",
+        "SQL",
+        "T-SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Data & ETL",
+      "keywords": [
+        "SSIS",
+        "SSRS",
+        "SQL Server",
+        "Alteryx",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "VS Code",
+        "Eclipse",
+        "Jira",
+        "ServiceNow",
+        "TFS",
+        "Microsoft 365"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Workday Pro: Prism Analytics Certification",
+      "date": "2024-09",
+      "url": "https://www.credly.com/badges/692c255d-964a-4582-8a18-eeeab0a9f8df"
+    },
+    {
+      "name": "Configurable Security Fundamentals",
+      "date": "2024-07"
+    },
+    {
+      "name": "Workday Extend: Advanced Data and Orchestration Services",
+      "date": "2024-03"
+    },
+    {
+      "name": "Workday Extend: Advanced Presentation Components",
+      "date": "2024-02"
+    },
+    {
+      "name": "Workday Extend Fundamentals",
+      "date": "2024-01"
+    },
+    {
+      "name": "Prism Analytics",
+      "date": "2022-02"
+    },
+    {
+      "name": "Composite Reporting Fundamentals",
+      "date": "2021-05"
+    },
+    {
+      "name": "Calculated Fields",
+      "date": "2021-02"
+    },
+    {
+      "name": "Report Writer",
+      "date": "2021-02"
+    },
+    {
+      "name": "Certified in Agile Software Development: Clean Coding Practices",
+      "date": "2020-10"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Spring Boot Web Application",
+      "description": "Created REST API endpoints for managing employee and compensation data using Spring Boot and MongoDB.",
+      "highlights": [
+        "Created a ReportingStructure type to calculate total number of direct and indirect reports using a recursive approach."
+      ],
+      "url": "https://github.com/williamdean19/mindex-challenge"
+    }
+  ]
+}
