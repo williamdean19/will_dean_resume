@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "William Dean",
-    "label": "Analytics Engineer",
+    "label": "Analytics Engineer | Workday Prism Analytics | Java SQL Reporting & ETL Specialist",
     "phone": "(585) 465-1690",
     "email": "williamdean19@gmail.com",
     "location": {
@@ -30,14 +30,15 @@
       "startDate": "2023-02",
       "endDate": "2024-10",
       "highlights": [
-        "Led the development of a multi-source data pipeline integrating Epic EMR, Kronos, Axiom, and Workday data.",
-        "Engineered data pipelines to unify systems, improving reporting accuracy.",
-        "Managed migration of 12 million rows of legacy data into Workday Prism Analytics.",
-        "Developed over 100 advanced reports across payroll, HCM, and recruiting.",
-        "Created detailed payroll reports at cost center and employee levels.",
-        "Generated quarterly job application and termination reports for Vizient reporting.",
-        "Built a dashboard tracking employee turnover trends and attrition rates.",
-        "Designed metrics for continuous service and terminations within specific timeframes."
+        "Led the development of a multi-source data pipeline integrating Epic EMR, Kronos, Axiom, and Workday data, improving workforce productivity tracking for 1600+ cost centers and processing over 42 million labor hours.",
+        "Engineered data pipelines that unified diverse systems into a single reliable source, enhancing reporting accuracy and empowering leadership with actionable insights.",
+        "Managed the migration of over 12 million rows of legacy data into a unified Workday Prism Analytics data source, simplifying data access and reporting across departments.",
+        "Developed over 100 advanced matrix and composite reports across payroll, HCM, and recruiting functional areas.",
+        "Created detailed reports at the cost center and employee levels for payroll earnings and deductions by type.",
+        "Generated quarterly job application, new hire, and termination count reports for Vizient reporting.",
+        "Built a dashboard tracking employee turnover trends, including terminations by type, year, and reason, as well as attrition rates by location.",
+        "Designed metrics for months of continuous service at termination and terminations within 1, 3, 6, 12, and 18 months of hire.",
+        "Collaborated closely with cross-functional teams ensuring the development of custom reports, dashboards, and KPIs that met the business needs of non-technical stakeholders."
       ]
     },
     {
@@ -47,12 +48,12 @@
       "startDate": "2021-02",
       "endDate": "2023-02",
       "highlights": [
-        "Executed deployment of Workday HCM data reporting for Highland Hospital.",
-        "Partnered with Huron consultants to ensure data consistency during the transition.",
-        "Deployed W-2 and W-2C data extraction for Highland Hospital workers.",
-        "Customized BIRT paycheck layout for over 4000 workers using Workday Studio.",
-        "Designed BIRT supplier payment checks to bank specifications.",
-        "Developed a financial dashboard to monitor $64 million in grant funding."
+        "Executed the deployment of Workday HCM data reporting for Highland Hospital benefiting approximately 5000 employees and prepared for expansion to the entire University employing around 35000 individuals.",
+        "Partnered with Huron consultants to guarantee data consistency during the transition from the legacy system to Workday, interpreting and meeting technical requirements for more than 40 key reports in HCM and Payroll functional areas.",
+        "Deployed W-2 and W-2C data extraction for all Highland Hospital workers via Prism Analytics supporting employment data validation with the Social Security Administration.",
+        "Customized BIRT paycheck layout using Workday Studio for over 4000 Highland Hospital workers with users executing the solution over 5000 times in the first six months from go-live.",
+        "Designed BIRT supplier payment checks to bank acceptance criteria specifications using Workday Studio, enabling electronic vendor payments through the Workday application.",
+        "Developed a Workday financial dashboard to monitor and manage over $64 million in grant award funding."
       ]
     },
     {
@@ -62,10 +63,10 @@
       "startDate": "2020-01",
       "endDate": "2020-11",
       "highlights": [
-        "Devised an on-demand solution for database migration using SQL and hash algorithms.",
-        "Upgraded and maintained SSIS ETL workflows.",
-        "Managed SQL queries for the Facets insurance claim submission application.",
-        "Encouraged process improvements leading to increased productivity."
+        "Devised an on-demand solution for database migration, identifying discrepancies between server instances with SQL object definitions and hash algorithms.",
+        "Upgraded and maintained SSIS ETL workflows ensuring seamless data integration into the SQL reporting environment.",
+        "Managed SQL queries and procedures for the Facets insurance claim submission application providing reliable data reporting.",
+        "Encouraged and enacted process improvements leading to considerable time savings and increased team productivity."
       ]
     },
     {
@@ -75,11 +76,12 @@
       "startDate": "2016-05",
       "endDate": "2020-01",
       "highlights": [
-        "Prevented loss of $1.6 million in unused state aid through strategic data analysis.",
-        "Processed daily billing for the HHUNY network using SSIS workflows.",
-        "Engineered a data pipeline for $35 million in budget data.",
-        "Developed Tableau dashboards with daily refresh.",
-        "Built a GUI application using Microsoft Access and SQL Server for the 'Gap In Care' initiative."
+        "Prevented loss of $1.6 million in unused state aid through strategic data analysis and reallocation of provider surplus and deficits.",
+        "Processed daily billing for the Health Homes of Upstate NY (HHUNY) network with SSIS workflows, adjusting workflows as needed for governmental reporting changes.",
+        "Engineered a data pipeline using SQL and Alteryx enabling near real-time tracking for over $35M in budget data from over 40 providers across 100+ programs.",
+        "Built and deployed interactive Tableau dashboards, refreshing data with daily workflow execution.",
+        "Developed a GUI application in Microsoft Access with a SQL Server back end utilizing VBA as the middle layer to support the 'Gap In Care' initiative.",
+        "Interpreted and structured reports to meet evolving governmental requirements aiding over 40 healthcare organizations in adapting to changing data environments."
       ]
     },
     {
@@ -89,7 +91,7 @@
       "startDate": "2016-01",
       "endDate": "2016-05",
       "highlights": [
-        "Analyzed 188,000 rows of travel data from 19,000 household surveys using a custom Java application."
+        "Analyzed 188,000 rows of travel data collected from 19,000 household surveys with a custom-built Java application."
       ]
     }
   ],
@@ -101,11 +103,10 @@
       "area": "Computer Science (Software Engineering Track)",
       "startDate": "2014",
       "endDate": "2017",
-      "gpa": null,
       "honors": [
         "Brockport Math and Computer Science Scholarship for three consecutive semesters",
-        "President’s List (Fall 2014)",
-        "Dean’s List (Fall 2015, Spring 2016)"
+        "President’s List Honor’s Fall-14",
+        "Dean’s List Fall-15 and Spring-16"
       ]
     },
     {
@@ -113,9 +114,7 @@
       "location": "Geneseo, NY",
       "studyType": "B.A.",
       "area": "Mathematics",
-      "startDate": null,
       "endDate": "2010",
-      "gpa": null,
       "honors": []
     }
   ],
@@ -200,7 +199,7 @@
       "name": "Spring Boot Web Application",
       "description": "Created REST API endpoints for managing employee and compensation data using Spring Boot and MongoDB.",
       "highlights": [
-        "Created a ReportingStructure type to calculate total number of direct and indirect reports using a recursive approach."
+        "Created a ReportingStructure type to calculate the total number of direct and indirect reports for an employee using a recursive approach."
       ],
       "url": "https://github.com/williamdean19/mindex-challenge"
     }
