@@ -1,0 +1,19 @@
+name: Sync Resume to Gist
+on:
+  push:
+    paths:
+      - 'resume.json'
+    branches:
+      - main
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Sync resume to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: 7f205ec43a91cb5eaeef503b91176860
+          file_path: resume.json
+          file_type: text
