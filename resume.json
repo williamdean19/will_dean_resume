@@ -205,6 +205,24 @@
         "Created a ReportingStructure type to calculate the total number of direct and indirect reports for an employee using a recursive approach."
       ],
       "url": "https://github.com/williamdean19/mindex-challenge"
+    },
+    {
+      "name": "Automated Resume Pipeline",
+      "description": "Created git-based automated resume deployment system",
+      "highlights": [
+        "Built version-controlled resume system using JSON for structured data and git for change tracking and history management",
+        "Implemented GitHub Actions workflow to automatically sync repository updates to Gist, enabling continuous deployment to JSONResume.org",
+        "Leveraged GitHub's infrastructure for secure secret management and automated file synchronization",
+        "Standardized resume updates through programmatic JSON manipulation, eliminating manual formatting overhead"
+      ],
+      "keywords": [
+        "GitHub Actions",
+        "Git", 
+        "JSON",
+        "YAML",
+        "Automation"
+      ],
+      "url": "https://github.com/williamdean19/will_dean_resume"
     }
   ]
 }
