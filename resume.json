@@ -86,12 +86,15 @@
     },
     {
       "company": "SUNY Research Foundation",
-      "position": "Research Analyst / Java Programmer",
+      "position": "Research Analyst / Java Programmer", 
       "location": "Brockport, NY",
       "startDate": "2016-01",
       "endDate": "2016-05",
       "highlights": [
-        "Analyzed 188,000 rows of travel data collected from 19,000 household surveys with a custom-built Java application."
+        "Engineered a scalable Java application analyzing vehicle usage viability, processing 82,000+ trip records across 13,000+ households to inform sustainable transportation policy",
+        "Designed object-oriented data pipeline integrating household surveys, vehicle data, and trip segments, with robust validation for data integrity and pattern analysis",
+        "Developed statistical models comparing charging strategies (slow vs. fast charging), demonstrating 85% of trips could be completed with 40-mile range EVs",
+        "Implemented custom algorithms to identify and analyze complex travel patterns including multi-stop journeys, vehicle sharing, and varied charging scenarios"
       ]
     }
   ],
