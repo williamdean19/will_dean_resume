@@ -25,6 +25,21 @@
   },
   "work": [
     {
+        "company": "TEKSystems",
+        "position": "Data Integration Engineer",
+        "location": "Rochester, NY - Remote",
+        "startDate": "2024-10",
+        "endDate": "Present",
+        "highlights": [
+          "Analyzed complex Excel-based Profit and Loss (P&L) statements for a new soybean and canola processing facility, focusing on EBITDA and profitability metrics for both inputs and outputs.",
+          "Gathered business requirements, identified data sources, and documented data pipelines, leveraging Workday Prism Analytics for seamless integration.",
+          "Modernized P&L workflows by transitioning manual Excel processes to automated solutions, utilizing Workday Worksheets with real-time data updates.",
+          "Developed and optimized inbound data pipelines in Workday Prism Analytics, integrating external data sources directly into the Workday platform.",
+          "Designed intuitive and actionable reporting solutions using Workday's advanced reporting tools to deliver streamlined insights.",
+          "Applied strong problem-solving skills to improve processes, enhance accuracy, and increase visibility into operational profitability."
+        ]
+    },
+    {
       "company": "Medical University of South Carolina",
       "position": "Workday Custom Report and Prism Analytics Developer",
       "location": "Rochester, NY - Remote",
