@@ -29,7 +29,6 @@
         "position": "Data Integration Engineer",
         "location": "Rochester, NY - Remote",
         "startDate": "2024-10",
-        "endDate": "Present",
         "highlights": [
           "Analyzed complex Excel-based Profit and Loss (P&L) statements for a new soybean and canola processing facility, focusing on EBITDA and profitability metrics for both inputs and outputs.",
           "Gathered business requirements, identified data sources, and documented data pipelines, leveraging Workday Prism Analytics for seamless integration.",
